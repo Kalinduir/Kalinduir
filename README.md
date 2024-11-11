@@ -4,7 +4,7 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=20&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+the+Profile+%F0%9F%91%8B" alt="Headline" />
     </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=klinduir&label=Profile%20views&color=0e75b6&style=flat" alt="klinduir" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=klinduir&label=Profile%20views&color=0e75b6&style=flat" alt="klinduir" /> </p>  
 
 - 🎓 I’m an Electronics Engineering Graduate From SLTC Research University
 
